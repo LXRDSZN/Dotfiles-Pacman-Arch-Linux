@@ -376,15 +376,11 @@ also with <kbd>alt, shift, and ctrl</kbd></p>
 <li>
 <p dir="auto"><strong>Credits</strong></p>
 <ul dir="auto">
-<li><a href="https://github.com/ner0z">ner0z</a></li>
+<li><a href="https://github.com/rxyhn">rxyhn</a></li>
 </ul>
 </li>
 <li>
-<p dir="auto"><strong>Special thanks to</strong></p>
-<ul dir="auto">
-<li><a href="https://github.com/ChocolateBread799">ChocolateBread799</a></li>
-<li><a href="https://github.com/JavaCafe01">JavaCafe01</a></li>
-</ul>
+
 </li>
 </ul>
 <h2 dir="auto"></h2><br>
